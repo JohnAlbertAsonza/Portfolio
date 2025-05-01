@@ -32,7 +32,7 @@ main{
 <div>
 	
 	
-		<embed src="JOHN ALBERT D. ASONZA.pdf#toolbar=0&navpanes=0" type="application/pdf" >
+		<embed src="c.pdf#toolbar=0&navpanes=0" type="application/pdf" >
 	
 </div>
 </form>
