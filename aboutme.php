@@ -33,7 +33,7 @@
 <form id="aboutme">
 
 	<div >
-	<img src="images/profileJohn.png" style="border-radius: 300px;height:80px;">
+	<img src="profileJohn.png" style="border-radius: 300px;height:80px;">
 </div>
 <div ><h3>Hi Im John Albert D. Asonza</h3></div>
 <div >
