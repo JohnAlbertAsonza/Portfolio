@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>John Portfolio</title>
+	<style type="text/css">
+		main{
+		margin-top: 0px;
+		padding-left: 25px;
+	}
+	#contact li{
+		 display: block;
+	}
+
+	</style>
+</head>
+<?php require_once 'header.php'; ?>
+<body>
+	<main>
+		<h3>Contact Info</h3>
+	<form >
+		
+<div>
+	
+	<ul id="contact">
+		<li><b>Email</b>: bertasonza@gmail.com</li>
+		<li><b>Phone Number</b>: 09953548289</li>
+		<li><a href="https://ph.jobstreet.com/profile/johnalbert-asonza-0j90p8HyBY"><img src="https://play-lh.googleusercontent.com/sxJ7iT8sciMKli_qs0vUM_edxXlXR79D0h8X4Cr_ICrW-qsKAiRtGpVHD1CaKgR71Uk=w480-h960-rw" style="height: 20px;width: 20px;padding: 0px"></a><a href="https://ph.linkedin.com/in/john-albert-asonza">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" style="height: 20px;width: 20px;padding: 0px"></li>
+	</ul>
+</div>
+</form>
+</main>
+</body>
+</html>
